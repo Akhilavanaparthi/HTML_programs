@@ -1,0 +1,3 @@
+write a c program to swap two numbers using 3rd variable
+write c program to swap two numbers without using 3rd variable
+write a c program to add two numbers without using + operator

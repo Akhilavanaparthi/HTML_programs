@@ -1,0 +1,12 @@
+Cascading Styile Sheets stsrted in 1994.recent version is css3.
+CSS is used to style/design/layout of the web page.
+
+CSS can be done in three ways:
+1.Inline styling/Inline
+css:It means give css properties
+style attribute --->inline styling
+inline powerfuk then the internal
+2.Internal Css:it means writing styles in the html files inside the :style" element.
+3.External Css:all css files should have an exetension.css. we cal link them by "link"tag
+inline>internal>externak.
+Basic selectors:

@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>radio button </title>
+</head>
+<body>
+<form>
+gender:
+<input type="radio"name="gender" value="male">
+<input type="radio"name="gendervalue="female">
+</form>
+</body>
